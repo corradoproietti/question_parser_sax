@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 2167349  -->
+  <question type="description">
+    <name>
+      <text>Close protection qualification</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p style="text-align: left;"><span style="font-size: medium;">Reading 1</span></p>
+<p style="text-align: left;"><span style="font-size: medium;">Read the text and answer the questions that follow</span></p>
+<p style="text-align: left;"></p>
+<p style="text-align: center;"><span style="font-size: medium;"><strong>Close Protection Qualification</strong> </span></p>
+<p><span style="font-size: medium;">RMP (Royal Military Police) personnel who volunteer for Close Protection (CP) training attend an eight-week basic course at the Close Protection Unit in Hampshire, UK. Personnel need to apply at least six months in advance as competition for places is high. Here personnel learn about all aspects of operational close protection. The training consists of training in specialist weapons and tactics including advanced marksmanship training, tactical convoy driving, unarmed combat skills, reconnaissance and counter and anti-surveillance techniques. The course focuses on developing highly trained, robust personnel capable of carrying out CP operations in various environments in both overt and covert roles. Volunteers for the course must pass the Army’s personal fitness assessment and then participate in a physical training program designed to develop fitness up to CP operational standards. Students validate their understanding of the training in a live protection exercise simulating a real protection scenario over several days.</span></p>
+<p><span style="font-size: medium;">You learn special soldiering skills for your role in close protection, you also develop strong communication skills as you need to speak to and assist senior officers and diplomats on a daily basis when you are deployed. You learn to work as part of a team and also on your own and to be responsible, dependable and quick thinking under pressure. At the conclusion of the eight-week course, successful students are assigned to a team for a further 4 weeks of theatre specific training. Close Protection is one of the many exciting opportunities in the RMP.</span></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>0.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <tags>
+      <tag><text>DESCRIPTION</text>
+</tag>
+    </tags>
+  </question>
+
+<!-- question: 2167315  -->
+  <question type="cloze">
+    <name>
+      <text>Question 1 - 10 points - Care for the Elderly</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><span style="color: #000000; font-size: medium;"><span color="#0000ff">Reading 2</span></span></p>
+<p><span style="color: #000000; font-size: medium;"><span color="#0000ff">Select one word from the drop down box</span></span></p>
+<p style="text-align: center;"><br /><span style="font-size: medium;"><strong>Caring for your elderly parents in the UK - difficult choices!</strong></span></p>
+<p><span style="font-size: medium;">     With an ageing population and an over-worked national health service, care for the elderly is a growing concern in the UK. {1:MULTICHOICE:~Doctors#Wrong~Ministers #Wrong~Parents#Wrong~=Families#OK} are facing difficult questions about what to do for their loved ones as they {1:MULTICHOICE:=come#OK~play#Wrong~go#Wrong~work #Wrong}to an age where care is required. {1:MULTICHOICE:~Where#Wrong~=Who#OK~What #Wrong~Why #Wrong}is looking after mum or dad? Is it a son or a {1:MULTICHOICE:=daughter#OK~wife#Wrong~uncle #Wrong~husband #Wrong}, a nephew or a niece, a grandson or a granddaughter? {1:MULTICHOICE:~When#Wrong~How#Wrong~=What#OK~Who #Wrong} finances has the elderly person got? A large personal income or a small pension? {1:MULTICHOICE:~Has#Wrong~=Can#OK~Is #Wrong~Are #Wrong}he or she stay at home? It is a difficult time for all concerned.</span></p>
+<p><span style="font-size: medium;">{1:MULTICHOICE:~A#Wrong~This #Wrong~=An#OK~That #Wrong} elderly person can easily become susceptible to depression and insomnia. This means that an elderly person {1:MULTICHOICE:~recently#Wrong~more #Wrong~very #Wrong~=often#OK} requires specialised care and attention from trained individuals, ranging from simple assistance around the house to full 24 hour care. The family needs to understand its options, and to plan in advance. {1:MULTICHOICE:~There is#Wrong~There are#Wrong~=Is there#OK~Are they #Wrong}a place in the Nursing Home in your town? Think ahead and go and visit it. Go with your relative and {1:MULTICHOICE:=talk#OK~tell#Wrong~says #Wrong~say #Wrong}to your relative’s bank manager together and plan the future. It’s the best way.</span></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <tags>
+      <tag><text>CLOZE</text>
+</tag>
+    </tags>
+  </question>
+
+<!-- question: 2167317  -->
+  <question type="cloze">
+    <name>
+      <text>Question 3 - 5 points - dialogue: buying a TomTom</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><span style="color: #000000; font-size: medium;"><span color="#0000ff">Reading 3</span></span></p>
+<p><span style="color: #000000; font-size: medium;"><span color="#0000ff">Write <strong>one</strong> word  in each box.</span></span></p>
+<p></p>
+<p><span style="font-size: medium;"><strong>Peter meets Mark in the shopping centre. </strong></span></p>
+<p><span style="font-size: medium;"><em>Peter:</em> Hi, Mark. What are you doing at the shopping centre? You don’t like shopping!</span></p>
+<p><span style="font-size: medium;"><em>Mark:</em> Yes, I know. But I drive a lot now for work. I {1:SHORTANSWER:=am~='m} always getting lost. I think I need a GPS device.</span></p>
+<p><span style="font-size: medium;"><em>Peter:</em> Ah, so you want to buy a GPS? {1:SHORTANSWER:=Would~=would} you like some help?</span></p>
+<p><span style="font-size: medium;"><em>Mark:</em> Oh, yes. Thanks.</span></p>
+<p><span style="font-size: medium;"><em>Peter:</em> With the TomTom XXL 540TM you can save time, fuel and money {1:SHORTANSWER:=because~=as~=and~=since} it has IQ Route Technology. Traffic isn’t the same on Sunday as it is on Monday and so your route can be different.</span></p>
+<p><span style="font-size: medium;"><em>Mark:</em> Wow! That’s intelligent.</span></p>
+<p><span style="font-size: medium;"><em>Peter:</em> Yes, it is. It also gives you useful information like the location of hotels and restaurants. It’s fantastic!</span></p>
+<p><span style="font-size: medium;"><em>Mark: </em>How {1:SHORTANSWER:=much} is it? Is it expensive?</span></p>
+<p><span style="font-size: medium;"><em>Peter:</em> Yes, but it's good value. Don't {1:SHORTANSWER:=buy~= get~=purchase~=use} a cheap one! The TomTom is a good brand and totally reliable.</span></p>
+<p><span style="font-size: medium;"><em>Mark:</em> You’re right Peter and I really need one. Thanks a lot.</span></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <tags>
+      <tag><text>CLOZE</text>
+</tag>
+    </tags>
+  </question>
+
+<!-- question: 2167361  -->
+  <question type="cloze">
+    <name>
+      <text>Read Elem 04/04/2022</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>My name&nbsp; {1:MCS:~be~=is~are~am} Sara, and I {1:MCS:~to love~=love~loving~lover}shopping online. I prefer mobile phone apps, but {1:MCS:~ few~=sometimes~ever~never} I use my computer. The phone is {1:MCS:~much~=more~lot~lots} convenient for me, and I can even do my shopping {1:MCS:~to~=from~by~under} bed!<br>I love shopping&nbsp; {1:MCS:~big~=so~to~quite} much that I buy everything I {1:MCS:~do~=need~are~am} at home. I get food, electronics, books, and even large pieces {1:MCS:~by~=of~too~at} furniture like my sofa and bookshelves all online! But I still prefer getting clothes from a shop {1:MCS:~that~=so~but~still} I can try them on to be sure they fit me.<br>Yesterday, I {1:MCS:~buy~=bought~to buy~buying}&nbsp; a birthday present for {1:MCS:~the my~=my~mine~me} mother, and {1:MCS:~they~=it~those~these} arrived today! That saves me a {1:MCS:~big~=lot of~very~many} time. I&nbsp; {1:MCS:~be~=am~are~is} a busy person, and I forget things {1:MCS:~but~=too~and~so}. If I think of something I need, {1:MCS:~that~=then~this~those} it is wonderful that I can {1:MCS:~to buy~=buy~buying~bought} it at that moment.<br>My friends don’t like buying things online{1:MCS:~yet~=because~very~still}&nbsp; they think that it can be {1:MCS:~danger~=dangerous~fear~scare}. Of course, {1:MCS:~big~=bad~but~bring} things sometimes happen, {1:MCS:~be~=but~big~bring} I am very careful with all of my personal details. I think the {1:MCS:~very big~=biggest~too big~so big} fear that people have {1:MCS:~to~=with~at~on} using their credit cards online is that {1:MCS:~nothing~=someone~anything~no-one} will&nbsp; {1:MCS:~stole~=steal~still~stick} their credit card number. It is important to be sure that the web page is secure. You can {1:MCS:~to see~=see~seeing~saw} this if the address has got an “s” in it, like https://. That “s” means it is {1:MCS:~soft~=safe~sat~still}.<br>People {1:MCS:~not be~=should not be~ be not~am} afraid{1:MCS:~to~=of~do~doing} shopping online. I think it will be the only way we will do&nbsp;{1:MCS:~ours~=our~the our~your} shopping in the future!<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <tags>
+      <tag><text>READING</text>
+</tag>
+    </tags>
+  </question>
+
+<!-- question: 2167359  -->
+  <question type="multichoice">
+    <name>
+      <text>During the CPQ course students learn</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><span style="font-size: medium;">During the CPQ course students learn how to react more _______ .</span></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>quickly</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>actively</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>slowly</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>cost-effectively</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 2167351  -->
+  <question type="multichoice">
+    <name>
+      <text>In order to do the CPQ it isn't ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><span style="font-size: medium;">In order to do the Close Protection Qualification it isn't necessary to ______ .</span></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>be in the Army</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>volunteer</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>be fit</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>go to university</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 2167353  -->
+  <question type="multichoice">
+    <name>
+      <text>It is essential to apply...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><span style="font-size: medium;">It is essential to apply early for the course because there _______ .</span></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>are many applicants</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>are many places</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>is an entry test</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>is a waiting list</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 2167357  -->
+  <question type="multichoice">
+    <name>
+      <text>successful students of the CPQ course...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><span style="font-size: medium;">Successful students of the basic CPQ course _______  .</span></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>continue training for another month</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>become instructors in a month</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>are promoted in a month</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>are deployed in a month</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 2167355  -->
+  <question type="multichoice">
+    <name>
+      <text>The basic CPQ course lasts...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><span style="font-size: medium;">The basic CPQ course lasts _______ .</span></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>four months</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>eight weeks</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>twelve weeks</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>six months</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>
